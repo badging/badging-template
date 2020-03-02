@@ -1,3 +1,7 @@
+# Submission Template
+
+The purpose of this repository is to provide a unified format for all badge requests submitted to one of the Badging Projects.
+
 # Diversity and Inclusion Badging for Templates
 
 Please see the Readme [README] to apply for a Template badge.
