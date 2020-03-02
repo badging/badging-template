@@ -9,7 +9,7 @@ To use your own details for this template, follow these steps:
    - Example: Project
   - Change the links at the bottom of the page to reflect the badge details
 
-Below is the current submission repository template.
+To view the submission template, see the folder submission/
 
 # {CATEGORY} Badging for {TYPE}s
 
